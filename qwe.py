@@ -145,23 +145,25 @@ print(lists)
 # get element with position
 # list_ = [1,2,3,4]
 # list_[0]
+#
+# # DICTIONARIES / Словари
+# """
+# list_ = list(range(1, 100))
+# empty_dict = {}
+# dict_with_pairs = {'Ключ1': 'Значение', 'Ключ2': 'Значение2'}
+# some_dict_with_func = dict(instrument='Guitar', car='BMW')
+# print(type(empty_dict))
+# print(dict_with_pairs)
+# print(some_dict_with_func)
+# dict_with_tuple = dict([('ru', 'Russia'), ('us', 'America'), ('kg', 'Kyrgystan'), ('list',list_)])
+# print(dict_with_tuple)
+# """
+#
+# some_dict = {3:2, 2:3, 1.5: 2.5, True: False, False: True, (1,2,3): [1,2,3]}
+# print(some_dict)
+#
+# # names = {'name': 'John', 'name': 'Raychel'}
+# # print(names['name'])
+#
 
-# DICTIONARIES / Словари
-"""
-list_ = list(range(1, 100))
-empty_dict = {}
-dict_with_pairs = {'Ключ1': 'Значение', 'Ключ2': 'Значение2'}
-some_dict_with_func = dict(instrument='Guitar', car='BMW')
-print(type(empty_dict))
-print(dict_with_pairs)
-print(some_dict_with_func)
-dict_with_tuple = dict([('ru', 'Russia'), ('us', 'America'), ('kg', 'Kyrgystan'), ('list',list_)])
-print(dict_with_tuple)
-"""
-
-some_dict = {3:2, 2:3, 1.5: 2.5, True: False, False: True, (1,2,3): [1,2,3]}
-print(some_dict)
-
-# names = {'name': 'John', 'name': 'Raychel'}
-# print(names['name'])
 
